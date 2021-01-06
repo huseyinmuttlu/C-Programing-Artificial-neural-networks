@@ -1,6 +1,6 @@
 //-----------------------------------------
 // Basit-Seri Yapay Sinir Agi Gerceklemesi
-// Bahadir Katipoglu - http://bahadir.me
+// Huseyin Mutlu
 //-----------------------------------------
  
 #include "stdafx.h"
