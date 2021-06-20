@@ -1,6 +1,6 @@
 //-----------------------------------------
 // Basit-Seri Yapay Sinir Agi Gerceklemesi
-// Huseyin Mutlu
+//           Huseyin Mutlu
 //-----------------------------------------
  
 #include "stdafx.h"
